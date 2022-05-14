@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitesh Kumar
+- 👋 Hi, I’m Nitesh Kumar (Robotics Enigineer)
 - 👀 I’m interested in becoming ML engineer. Righ Now I am doing M. Tech in Automation and Robotics in Defense Institute of Advance Technology, Pune
 - 🌱 I’m currently learning full stack Datascience bootcamp on iNeuron online. 
 - 💞️ I’m looking forward to get job as ML engineer 
