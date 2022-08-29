@@ -1,0 +1,5 @@
+INFO:root:fibonacci sequence for 2 and 3
+INFO:root:fibonacci sequence for 1 and 2
+INFO:root:fibonacci sequence for 2 and 3
+INFO:root:fibonacci sequence for where first and second element are 5 and 10
+INFO:root:[5, 10, 15, 25, 40]
